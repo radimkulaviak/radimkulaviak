@@ -3,10 +3,10 @@
 **Proxmox · VMware migration · Linux hardening · DNS & mail security**
 
 Freelance consultant for small and medium-sized businesses in the Czech Republic, Slovakia and the wider EU (DACH included, remote).
-I have been running production Linux hosting for **25+ years** — my own platform [isol.cz](https://www.isol.cz) serves ~320 web hosting clients, ~360 MariaDB databases and DNS for ~250 domains on Apache, MariaDB, Postfix, Dovecot, BIND and PHP-FPM.
+I have been running production Linux hosting for **25+ years** — my own platform [isol.cz](https://www.isol.cz) serves 350+ web hosting clients, 280+ MariaDB databases and DNS for 240+ domains on Apache, MariaDB, Postfix, Dovecot, BIND and PHP-FPM.
 
 ## Hands-on experience (own production platform)
-- **Hosting stack:** ~320 web hosting clients (PHP/HTML), ~360 MariaDB databases (mostly InnoDB), DNS for ~250 domains, mail (Postfix, Dovecot, Amavis, OpenDKIM).
+- **Hosting stack:** 350+ web hosting clients (PHP/HTML), 280+ MariaDB databases (mostly InnoDB), DNS for 240+ domains, mail (Postfix, Dovecot, Amavis, OpenDKIM).
 - **PHP:** versions 5.6 to 8.4 side by side, with per-domain PHP-FPM pool isolation.
 - **Mail/DNS security:** bulk SPF/DKIM/DMARC/DNSBL auditing and bulk OpenDKIM rollout; BIND cleanup of ~1,500 orphaned zones.
 - **Incident response:** compromised hosted sites (webshell/backdoor removal), phishing sent via a hacked PHP script, BEC fraud monitoring.
