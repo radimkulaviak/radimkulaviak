@@ -3,7 +3,7 @@
 **Proxmox · VMware-Migration · Linux-Härtung · DNS- und Mail-Sicherheit**
 
 Freiberuflicher Berater für kleine und mittlere Unternehmen in Tschechien, der Slowakei und der EU (inkl. DACH, remote).
-Seit **rund 20 Jahren** betreibe ich Linux-Hosting in Produktion — meine eigene Plattform [isol.cz](https://www.isol.cz) betreut ~320 Webhosting-Kunden, ~360 MariaDB-Datenbanken und DNS für ~250 Domains mit Apache, MariaDB, Postfix, Dovecot, BIND und PHP-FPM.
+Seit **über 25 Jahren** betreibe ich Linux-Hosting in Produktion — meine eigene Plattform [isol.cz](https://www.isol.cz) betreut ~320 Webhosting-Kunden, ~360 MariaDB-Datenbanken und DNS für ~250 Domains mit Apache, MariaDB, Postfix, Dovecot, BIND und PHP-FPM.
 
 ## Praxiserfahrung (eigene Produktionsplattform)
 - **Hosting-Stack:** ~320 Webhosting-Kunden (PHP/HTML), ~360 MariaDB-Datenbanken (überwiegend InnoDB), DNS für ~250 Domains, Mail (Postfix, Dovecot, Amavis, OpenDKIM).

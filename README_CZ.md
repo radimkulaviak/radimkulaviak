@@ -3,7 +3,7 @@
 **Proxmox · migrace z VMware · hardening Linuxu · zabezpečení DNS a e-mailu**
 
 Freelance konzultant pro malé a střední firmy v ČR, SR a EU (včetně DACH, na dálku).
-Provozuji produkční Linux hosting **zhruba 20 let** — vlastní platforma [isol.cz](https://www.isol.cz) obsluhuje ~320 webhostingových klientů, ~360 MariaDB databází a DNS pro ~250 domén na Apache, MariaDB, Postfix, Dovecot, BIND a PHP-FPM.
+Provozuji produkční Linux hosting **přes 25 let** — vlastní platforma [isol.cz](https://www.isol.cz) obsluhuje ~320 webhostingových klientů, ~360 MariaDB databází a DNS pro ~250 domén na Apache, MariaDB, Postfix, Dovecot, BIND a PHP-FPM.
 
 ## Praktické zkušenosti (vlastní produkční platforma)
 - **Hostingový stack:** ~320 webhostingových klientů (PHP/HTML), ~360 MariaDB databází (většinou InnoDB), DNS pro ~250 domén, mail (Postfix, Dovecot, Amavis, OpenDKIM).
