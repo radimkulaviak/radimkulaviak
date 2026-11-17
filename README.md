@@ -22,6 +22,7 @@ I have been running production Linux hosting for **25+ years** — my own platfo
 
 ## Repositories
 - [linux-hardening-baseline](https://github.com/radimkulaviak/linux-hardening-baseline) — Ansible baseline for Ubuntu 24.04 + Lynis before/after.
+- [hosting-security-audit](https://github.com/radimkulaviak/hosting-security-audit) — production hosting audit case study: findings, fixes, incidents, Lynis 77 → 82.
 - [legacy-centos-to-ubuntu-migration](https://github.com/radimkulaviak/legacy-centos-to-ubuntu-migration) — migration method, read-only inventory script, cutover checklist.
 - [dns-mail-security-audit](https://github.com/radimkulaviak/dns-mail-security-audit) — bulk DNS/mail audit script (CSV output).
 - [vmware-to-proxmox-migration](https://github.com/radimkulaviak/vmware-to-proxmox-migration) — migration playbook, tested in lab.
